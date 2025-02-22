@@ -11,3 +11,9 @@
 ## Задание 3
 
 *репозиторий создан*
+
+## Задание 4
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле fourthTask.md](https://github.com/KarinaKravchenko/js/blob/main/fourthTask.md)
