@@ -17,3 +17,21 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле fourthTask.md](https://github.com/KarinaKravchenko/js/blob/main/fourthTask.md)
+
+## Задание 5
+
+*выполнена работа с Node.js*
+
+## Задание 6
+
+*-*
+
+## Задание 7
+
+*изучена информация (именование переменных)*
+
+## Задание 8
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле eighthTask.js]([https://github.com/KarinaKravchenko/js/blob/main/fourthTask.md](https://github.com/KarinaKravchenko/js/blob/main/eighthTask.js))
