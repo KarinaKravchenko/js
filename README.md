@@ -34,4 +34,4 @@
 
 *задание выполнено*
 
-[посмотреть результат выполнения можно в файле eighthTask.js]([https://github.com/KarinaKravchenko/js/blob/main/fourthTask.md](https://github.com/KarinaKravchenko/js/blob/main/eighthTask.js))
+[посмотреть результат выполнения можно в файле eighthTask.js](https://github.com/KarinaKravchenko/js/blob/main/eighthTask.js)
