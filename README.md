@@ -41,3 +41,9 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле nightTask.js](https://github.com/KarinaKravchenko/js/blob/main/nightTask.js)
+
+## Задание 10
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле tenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/tenthTask.js)
