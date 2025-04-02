@@ -35,3 +35,9 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле eighthTask.js](https://github.com/KarinaKravchenko/js/blob/main/eighthTask.js)
+
+## Задание 9
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле nightTask.js](https://github.com/KarinaKravchenko/js/blob/main/nightTask.js)
