@@ -24,7 +24,7 @@
 
 ## Задание 6
 
-*-*
+[посмотреть результат выполнения можно в файле sixthTask.js](https://github.com/KarinaKravchenko/js/blob/main/sixthTask.js)
 
 ## Задание 7
 
