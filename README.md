@@ -53,3 +53,13 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле eleventhTask.js](https://github.com/KarinaKravchenko/js/blob/main/eleventhTask.js)
+
+## Задание 12
+
+*изучена информация*
+
+## Задание 13
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле thirteenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/thirteenthTask.js)
