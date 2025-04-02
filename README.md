@@ -63,3 +63,15 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле thirteenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/thirteenthTask.js)
+
+## Задание 14
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле fourteenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/fourteenthTask.js)
+
+## Задание 15
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле fifteenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/fifteenthTask.js)
