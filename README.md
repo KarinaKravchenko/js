@@ -47,3 +47,9 @@
 *задание выполнено*
 
 [посмотреть результат выполнения можно в файле tenthTask.js](https://github.com/KarinaKravchenko/js/blob/main/tenthTask.js)
+
+## Задание 11
+
+*задание выполнено*
+
+[посмотреть результат выполнения можно в файле eleventhTask.js](https://github.com/KarinaKravchenko/js/blob/main/eleventhTask.js)
